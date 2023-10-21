@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @outloooker22
 - 👀 I’m interested in ... backend development
-- 🌱 I’m currently learning ... golang
-- 💞️ I’m looking to collaborate on ... idk i have no experience, u can write me that s interesting for me
+- 🌱 I’m currently learning ... backend functional part
+- 💞️ I’m looking to collaborate on ... idk i have no experience, u can write me. that s interesting for me
 - 📫 How to reach me ... im in ur mama's sleeping room
 
 <!---
